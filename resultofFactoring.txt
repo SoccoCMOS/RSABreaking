@@ -1,0 +1,44 @@
+
+
+Msieve v. 1.52 (SVN exporté)
+Wed Mar  2 18:42:55 2016
+random seeds: b5897874 4c9ea27e
+factoring 86744556826590946341377768144604588932871872205904810985541715355935714590331 (77 digits)
+no P-1/P+1/ECM available, skipping
+commencing quadratic sieve (77-digit input)
+using multiplier of 1
+using generic 32kb sieve core
+sieve interval: 12 blocks of size 32768
+processing polynomials in batches of 17
+using a sieve bound of 920377 (36471 primes)
+using large prime bound of 92037700 (26 bits)
+using trial factoring cutoff of 26 bits
+polynomial 'A' values have 10 factors
+36911 relations (18665 full + 18246 combined from 200752 partial), need 36567
+begin with 219417 relations
+reduce to 52943 relations in 2 passes
+attempting to read 52943 relations
+recovered 52943 relations
+recovered 43325 polynomials
+attempting to build 36911 cycles
+found 36911 cycles in 1 passes
+distribution of cycle lengths:
+   length 1 : 18665
+   length 2 : 18246
+largest cycle: 2 relations
+matrix is 36471 x 36911 (4.8 MB) with weight 1114249 (30.19/col)
+sparse part has weight 1114249 (30.19/col)
+filtering completed in 3 passes
+matrix is 26472 x 26535 (3.8 MB) with weight 887113 (33.43/col)
+sparse part has weight 887113 (33.43/col)
+saving the first 48 matrix rows for later
+matrix includes 64 packed rows
+matrix is 26424 x 26535 (2.5 MB) with weight 664989 (25.06/col)
+sparse part has weight 491000 (18.50/col)
+commencing Lanczos iteration
+memory use: 2.5 MB
+lanczos halted after 420 iterations (dim = 26422)
+recovered 16 nontrivial dependencies
+prp39 factor: 294343712896719736348072428002280672569
+prp39 factor: 294704975937529720418186097483629174099
+elapsed time 00:04:33

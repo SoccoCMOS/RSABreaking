@@ -1,0 +1,267 @@
+Tue Mar  1 16:43:43 2016  
+Tue Mar  1 16:43:43 2016  
+Tue Mar  1 16:43:43 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 16:43:43 2016  random seeds: 2f6cd7fe 2ac359c5
+Tue Mar  1 16:43:43 2016  MPI process 0 of 1
+Tue Mar  1 16:43:43 2016  factoring 73131849022865014764168607585028416397582966554634955802650185029546955410963 (77 digits)
+Tue Mar  1 16:43:44 2016  searching for 15-digit factors
+Tue Mar  1 16:43:44 2016  commencing quadratic sieve (77-digit input)
+Tue Mar  1 16:43:44 2016  using multiplier of 3
+Tue Mar  1 16:43:44 2016  using 32kb Intel Core sieve core
+Tue Mar  1 16:43:44 2016  sieve interval: 12 blocks of size 32768
+Tue Mar  1 16:43:44 2016  processing polynomials in batches of 17
+Tue Mar  1 16:43:44 2016  using a sieve bound of 924083 (36443 primes)
+Tue Mar  1 16:43:44 2016  using large prime bound of 92408300 (26 bits)
+Tue Mar  1 16:43:44 2016  using trial factoring cutoff of 26 bits
+Tue Mar  1 16:43:44 2016  polynomial 'A' values have 10 factors
+Tue Mar  1 16:46:42 2016  37016 relations (19357 full + 17659 combined from 193458 partial), need 36539
+Tue Mar  1 16:46:42 2016  begin with 212815 relations
+Tue Mar  1 16:46:42 2016  reduce to 52516 relations in 2 passes
+Tue Mar  1 16:46:42 2016  attempting to read 52516 relations
+Tue Mar  1 16:46:42 2016  recovered 52516 relations
+Tue Mar  1 16:46:42 2016  recovered 41529 polynomials
+Tue Mar  1 16:46:43 2016  attempting to build 37016 cycles
+Tue Mar  1 16:46:43 2016  found 37016 cycles in 1 passes
+Tue Mar  1 16:46:43 2016  distribution of cycle lengths:
+Tue Mar  1 16:46:43 2016     length 1 : 19357
+Tue Mar  1 16:46:43 2016     length 2 : 17659
+Tue Mar  1 16:46:43 2016  largest cycle: 2 relations
+Tue Mar  1 16:46:43 2016  matrix is 36443 x 37016 (4.8 MB) with weight 1107479 (29.92/col)
+Tue Mar  1 16:46:43 2016  sparse part has weight 1107479 (29.92/col)
+Tue Mar  1 16:46:43 2016  filtering completed in 4 passes
+Tue Mar  1 16:46:43 2016  matrix is 25550 x 25614 (3.6 MB) with weight 853562 (33.32/col)
+Tue Mar  1 16:46:43 2016  sparse part has weight 853562 (33.32/col)
+Tue Mar  1 16:46:43 2016  saving the first 48 matrix rows for later
+Tue Mar  1 16:46:43 2016  matrix includes 64 packed rows
+Tue Mar  1 16:48:31 2016  
+Tue Mar  1 16:48:31 2016  
+Tue Mar  1 16:48:31 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 16:48:31 2016  random seeds: 86f3b7c8 e9c936b2
+Tue Mar  1 16:48:31 2016  MPI process 0 of 1
+Tue Mar  1 16:48:31 2016  factoring 73131849022865014764168607585028416397582966554634955802650185029546955410963 (77 digits)
+Tue Mar  1 16:48:31 2016  searching for 15-digit factors
+Tue Mar  1 16:48:32 2016  commencing quadratic sieve (77-digit input)
+Tue Mar  1 16:48:32 2016  using multiplier of 3
+Tue Mar  1 16:48:32 2016  using 32kb Intel Core sieve core
+Tue Mar  1 16:48:32 2016  sieve interval: 12 blocks of size 32768
+Tue Mar  1 16:48:32 2016  processing polynomials in batches of 17
+Tue Mar  1 16:48:32 2016  using a sieve bound of 924083 (36443 primes)
+Tue Mar  1 16:48:32 2016  using large prime bound of 92408300 (26 bits)
+Tue Mar  1 16:48:32 2016  using trial factoring cutoff of 26 bits
+Tue Mar  1 16:48:32 2016  polynomial 'A' values have 10 factors
+Tue Mar  1 16:48:32 2016  restarting with 19357 full and 193458 partial relations
+Tue Mar  1 16:48:32 2016  37016 relations (19357 full + 17659 combined from 193458 partial), need 36539
+Tue Mar  1 16:48:32 2016  begin with 212815 relations
+Tue Mar  1 16:48:32 2016  reduce to 52516 relations in 2 passes
+Tue Mar  1 16:48:32 2016  attempting to read 52516 relations
+Tue Mar  1 16:48:33 2016  recovered 52516 relations
+Tue Mar  1 16:48:33 2016  recovered 41529 polynomials
+Tue Mar  1 16:48:33 2016  attempting to build 37016 cycles
+Tue Mar  1 16:48:33 2016  found 37016 cycles in 1 passes
+Tue Mar  1 16:48:33 2016  distribution of cycle lengths:
+Tue Mar  1 16:48:33 2016     length 1 : 19357
+Tue Mar  1 16:48:33 2016     length 2 : 17659
+Tue Mar  1 16:48:33 2016  largest cycle: 2 relations
+Tue Mar  1 16:48:33 2016  matrix is 36443 x 37016 (4.8 MB) with weight 1107479 (29.92/col)
+Tue Mar  1 16:48:33 2016  sparse part has weight 1107479 (29.92/col)
+Tue Mar  1 16:48:33 2016  filtering completed in 4 passes
+Tue Mar  1 16:48:33 2016  matrix is 25550 x 25614 (3.6 MB) with weight 853562 (33.32/col)
+Tue Mar  1 16:48:33 2016  sparse part has weight 853562 (33.32/col)
+Tue Mar  1 16:48:33 2016  saving the first 48 matrix rows for later
+Tue Mar  1 16:48:33 2016  matrix includes 64 packed rows
+Tue Mar  1 16:49:03 2016  
+Tue Mar  1 16:49:03 2016  
+Tue Mar  1 16:49:03 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 16:49:03 2016  random seeds: 63276ec4 451efbc1
+Tue Mar  1 16:49:03 2016  MPI process 0 of 1
+Tue Mar  1 16:49:03 2016  factoring 10 (2 digits)
+Tue Mar  1 16:49:03 2016  p1 factor: 2
+Tue Mar  1 16:49:03 2016  p1 factor: 5
+Tue Mar  1 16:49:03 2016  elapsed time 00:00:00
+Tue Mar  1 16:49:19 2016  
+Tue Mar  1 16:49:19 2016  
+Tue Mar  1 16:49:19 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 16:49:19 2016  random seeds: 7b08816a ee69c165
+Tue Mar  1 16:49:19 2016  MPI process 0 of 1
+Tue Mar  1 16:49:19 2016  factoring 102131354566898989754633323 (27 digits)
+Tue Mar  1 16:49:19 2016  p1 factor: 7
+Tue Mar  1 16:49:19 2016  p3 factor: 373
+Tue Mar  1 16:49:19 2016  p5 factor: 47237
+Tue Mar  1 16:49:19 2016  p5 factor: 58937
+Tue Mar  1 16:49:19 2016  prp14 factor: 14050179947197
+Tue Mar  1 16:49:19 2016  elapsed time 00:00:00
+Tue Mar  1 16:50:04 2016  
+Tue Mar  1 16:50:04 2016  
+Tue Mar  1 16:50:04 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 16:50:04 2016  random seeds: 88787493 03f2b55c
+Tue Mar  1 16:50:04 2016  MPI process 0 of 1
+Tue Mar  1 16:50:04 2016  factoring 73131849022865014764168607585028416397582966554634955802650185029546955410963 (77 digits)
+Tue Mar  1 16:50:04 2016  searching for 15-digit factors
+Tue Mar  1 16:50:05 2016  commencing quadratic sieve (77-digit input)
+Tue Mar  1 16:50:05 2016  using multiplier of 3
+Tue Mar  1 16:50:05 2016  using 32kb Intel Core sieve core
+Tue Mar  1 16:50:05 2016  sieve interval: 12 blocks of size 32768
+Tue Mar  1 16:50:05 2016  processing polynomials in batches of 17
+Tue Mar  1 16:50:05 2016  using a sieve bound of 924083 (36443 primes)
+Tue Mar  1 16:50:05 2016  using large prime bound of 92408300 (26 bits)
+Tue Mar  1 16:50:05 2016  using trial factoring cutoff of 26 bits
+Tue Mar  1 16:50:05 2016  polynomial 'A' values have 10 factors
+Tue Mar  1 16:50:05 2016  restarting with 19357 full and 193458 partial relations
+Tue Mar  1 16:50:05 2016  37016 relations (19357 full + 17659 combined from 193458 partial), need 36539
+Tue Mar  1 16:50:05 2016  begin with 212815 relations
+Tue Mar  1 16:50:05 2016  reduce to 52516 relations in 2 passes
+Tue Mar  1 16:50:05 2016  attempting to read 52516 relations
+Tue Mar  1 16:50:06 2016  recovered 52516 relations
+Tue Mar  1 16:50:06 2016  recovered 41529 polynomials
+Tue Mar  1 16:50:06 2016  attempting to build 37016 cycles
+Tue Mar  1 16:50:06 2016  found 37016 cycles in 1 passes
+Tue Mar  1 16:50:06 2016  distribution of cycle lengths:
+Tue Mar  1 16:50:06 2016     length 1 : 19357
+Tue Mar  1 16:50:06 2016     length 2 : 17659
+Tue Mar  1 16:50:06 2016  largest cycle: 2 relations
+Tue Mar  1 16:50:06 2016  matrix is 36443 x 37016 (4.8 MB) with weight 1107479 (29.92/col)
+Tue Mar  1 16:50:06 2016  sparse part has weight 1107479 (29.92/col)
+Tue Mar  1 16:50:06 2016  filtering completed in 4 passes
+Tue Mar  1 16:50:06 2016  matrix is 25550 x 25614 (3.6 MB) with weight 853562 (33.32/col)
+Tue Mar  1 16:50:06 2016  sparse part has weight 853562 (33.32/col)
+Tue Mar  1 16:50:06 2016  saving the first 48 matrix rows for later
+Tue Mar  1 16:50:06 2016  matrix includes 64 packed rows
+Tue Mar  1 16:58:06 2016  
+Tue Mar  1 16:58:06 2016  
+Tue Mar  1 16:58:06 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 16:58:06 2016  random seeds: f162b1f7 819a0d47
+Tue Mar  1 16:58:06 2016  MPI process 0 of 1
+Tue Mar  1 16:58:06 2016  factoring 73131849022865014764168607585028416397582966554634955802650185029546955410963 (77 digits)
+Tue Mar  1 16:58:06 2016  searching for 15-digit factors
+Tue Mar  1 16:58:07 2016  commencing quadratic sieve (77-digit input)
+Tue Mar  1 16:58:07 2016  using multiplier of 3
+Tue Mar  1 16:58:07 2016  using 32kb Intel Core sieve core
+Tue Mar  1 16:58:07 2016  sieve interval: 12 blocks of size 32768
+Tue Mar  1 16:58:07 2016  processing polynomials in batches of 17
+Tue Mar  1 16:58:07 2016  using a sieve bound of 924083 (36443 primes)
+Tue Mar  1 16:58:07 2016  using large prime bound of 92408300 (26 bits)
+Tue Mar  1 16:58:07 2016  using trial factoring cutoff of 26 bits
+Tue Mar  1 16:58:07 2016  polynomial 'A' values have 10 factors
+Tue Mar  1 16:58:07 2016  restarting with 19357 full and 193458 partial relations
+Tue Mar  1 16:58:07 2016  37016 relations (19357 full + 17659 combined from 193458 partial), need 36539
+Tue Mar  1 16:58:07 2016  begin with 212815 relations
+Tue Mar  1 16:58:07 2016  reduce to 52516 relations in 2 passes
+Tue Mar  1 16:58:07 2016  attempting to read 52516 relations
+Tue Mar  1 16:58:08 2016  recovered 52516 relations
+Tue Mar  1 16:58:08 2016  recovered 41529 polynomials
+Tue Mar  1 16:58:08 2016  attempting to build 37016 cycles
+Tue Mar  1 16:58:08 2016  found 37016 cycles in 1 passes
+Tue Mar  1 16:58:08 2016  distribution of cycle lengths:
+Tue Mar  1 16:58:08 2016     length 1 : 19357
+Tue Mar  1 16:58:08 2016     length 2 : 17659
+Tue Mar  1 16:58:08 2016  largest cycle: 2 relations
+Tue Mar  1 16:58:08 2016  matrix is 36443 x 37016 (4.8 MB) with weight 1107479 (29.92/col)
+Tue Mar  1 16:58:08 2016  sparse part has weight 1107479 (29.92/col)
+Tue Mar  1 16:58:08 2016  filtering completed in 4 passes
+Tue Mar  1 16:58:08 2016  matrix is 25550 x 25614 (3.6 MB) with weight 853562 (33.32/col)
+Tue Mar  1 16:58:08 2016  sparse part has weight 853562 (33.32/col)
+Tue Mar  1 16:58:08 2016  saving the first 48 matrix rows for later
+Tue Mar  1 16:58:08 2016  matrix includes 64 packed rows
+Tue Mar  1 17:01:02 2016  
+Tue Mar  1 17:01:02 2016  
+Tue Mar  1 17:01:02 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 17:01:02 2016  random seeds: bb7fb3bc 87560c16
+Tue Mar  1 17:01:02 2016  MPI process 0 of 1
+Tue Mar  1 17:01:02 2016  factoring 754845965412365478965412654478995544123665878888 (48 digits)
+Tue Mar  1 17:01:02 2016  searching for 15-digit factors
+Tue Mar  1 17:01:03 2016  commencing quadratic sieve (45-digit input)
+Tue Mar  1 17:01:03 2016  using multiplier of 5
+Tue Mar  1 17:01:03 2016  using 32kb Intel Core sieve core
+Tue Mar  1 17:01:03 2016  sieve interval: 4 blocks of size 32768
+Tue Mar  1 17:01:03 2016  processing polynomials in batches of 51
+Tue Mar  1 17:01:03 2016  using a sieve bound of 18911 (1070 primes)
+Tue Mar  1 17:01:03 2016  using large prime bound of 756440 (19 bits)
+Tue Mar  1 17:01:03 2016  using trial factoring cutoff of 20 bits
+Tue Mar  1 17:01:03 2016  polynomial 'A' values have 6 factors
+Tue Mar  1 17:01:03 2016  1291 relations (723 full + 568 combined from 4620 partial), need 1166
+Tue Mar  1 17:01:03 2016  begin with 5343 relations
+Tue Mar  1 17:01:03 2016  reduce to 1782 relations in 2 passes
+Tue Mar  1 17:01:03 2016  attempting to read 1782 relations
+Tue Mar  1 17:01:03 2016  recovered 1782 relations
+Tue Mar  1 17:01:03 2016  recovered 470 polynomials
+Tue Mar  1 17:01:03 2016  attempting to build 1291 cycles
+Tue Mar  1 17:01:03 2016  found 1291 cycles in 1 passes
+Tue Mar  1 17:01:03 2016  distribution of cycle lengths:
+Tue Mar  1 17:01:03 2016     length 1 : 723
+Tue Mar  1 17:01:03 2016     length 2 : 568
+Tue Mar  1 17:01:03 2016  largest cycle: 2 relations
+Tue Mar  1 17:01:03 2016  matrix is 1070 x 1291 (0.1 MB) with weight 26192 (20.29/col)
+Tue Mar  1 17:01:03 2016  sparse part has weight 26192 (20.29/col)
+Tue Mar  1 17:01:03 2016  filtering completed in 4 passes
+Tue Mar  1 17:01:03 2016  matrix is 983 x 1047 (0.1 MB) with weight 19923 (19.03/col)
+Tue Mar  1 17:01:03 2016  sparse part has weight 19923 (19.03/col)
+Tue Mar  1 17:01:12 2016  
+Tue Mar  1 17:01:12 2016  
+Tue Mar  1 17:01:12 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 17:01:12 2016  random seeds: 0b627e84 08784fe3
+Tue Mar  1 17:01:12 2016  MPI process 0 of 1
+Tue Mar  1 17:01:12 2016  factoring 7548459654123654789654126544 (28 digits)
+Tue Mar  1 17:01:12 2016  p1 factor: 2
+Tue Mar  1 17:01:12 2016  p1 factor: 2
+Tue Mar  1 17:01:12 2016  p1 factor: 2
+Tue Mar  1 17:01:12 2016  p1 factor: 2
+Tue Mar  1 17:01:12 2016  p2 factor: 23
+Tue Mar  1 17:01:12 2016  p3 factor: 821
+Tue Mar  1 17:01:12 2016  p7 factor: 8245957
+Tue Mar  1 17:01:12 2016  prp16 factor: 3029886056946739
+Tue Mar  1 17:01:12 2016  elapsed time 00:00:00
+Tue Mar  1 17:02:49 2016  
+Tue Mar  1 17:02:49 2016  
+Tue Mar  1 17:02:49 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 17:02:49 2016  random seeds: f5c21d3c 6b2fb067
+Tue Mar  1 17:02:49 2016  MPI process 0 of 1
+Tue Mar  1 17:02:49 2016  factoring 754845965412365478965412654478995544123665878888 (48 digits)
+Tue Mar  1 17:02:49 2016  searching for 15-digit factors
+Tue Mar  1 17:02:49 2016  commencing quadratic sieve (45-digit input)
+Tue Mar  1 17:02:49 2016  using multiplier of 5
+Tue Mar  1 17:02:49 2016  using 32kb Intel Core sieve core
+Tue Mar  1 17:02:49 2016  sieve interval: 4 blocks of size 32768
+Tue Mar  1 17:02:49 2016  processing polynomials in batches of 51
+Tue Mar  1 17:02:49 2016  using a sieve bound of 18911 (1070 primes)
+Tue Mar  1 17:02:49 2016  using large prime bound of 756440 (19 bits)
+Tue Mar  1 17:02:49 2016  using trial factoring cutoff of 20 bits
+Tue Mar  1 17:02:49 2016  polynomial 'A' values have 6 factors
+Tue Mar  1 17:02:49 2016  restarting with 723 full and 4620 partial relations
+Tue Mar  1 17:02:49 2016  1291 relations (723 full + 568 combined from 4620 partial), need 1166
+Tue Mar  1 17:02:49 2016  begin with 5343 relations
+Tue Mar  1 17:02:49 2016  reduce to 1782 relations in 2 passes
+Tue Mar  1 17:02:49 2016  attempting to read 1782 relations
+Tue Mar  1 17:02:49 2016  recovered 1782 relations
+Tue Mar  1 17:02:49 2016  recovered 470 polynomials
+Tue Mar  1 17:02:49 2016  attempting to build 1291 cycles
+Tue Mar  1 17:02:49 2016  found 1291 cycles in 1 passes
+Tue Mar  1 17:02:49 2016  distribution of cycle lengths:
+Tue Mar  1 17:02:49 2016     length 1 : 723
+Tue Mar  1 17:02:49 2016     length 2 : 568
+Tue Mar  1 17:02:49 2016  largest cycle: 2 relations
+Tue Mar  1 17:02:49 2016  matrix is 1070 x 1291 (0.1 MB) with weight 26192 (20.29/col)
+Tue Mar  1 17:02:49 2016  sparse part has weight 26192 (20.29/col)
+Tue Mar  1 17:02:49 2016  filtering completed in 4 passes
+Tue Mar  1 17:02:49 2016  matrix is 983 x 1047 (0.1 MB) with weight 19923 (19.03/col)
+Tue Mar  1 17:02:49 2016  sparse part has weight 19923 (19.03/col)
+Tue Mar  1 17:28:12 2016  
+Tue Mar  1 17:28:12 2016  
+Tue Mar  1 17:28:12 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 17:28:12 2016  random seeds: f815b04b edae23f1
+Tue Mar  1 17:28:12 2016  MPI process 0 of 1
+Tue Mar  1 17:28:12 2016  factoring 75484596 (8 digits)
+Tue Mar  1 17:28:12 2016  p1 factor: 2
+Tue Mar  1 17:28:12 2016  p1 factor: 2
+Tue Mar  1 17:28:12 2016  p1 factor: 3
+Tue Mar  1 17:28:12 2016  p2 factor: 11
+Tue Mar  1 17:28:12 2016  p6 factor: 571853
+Tue Mar  1 17:28:12 2016  elapsed time 00:00:00
+Tue Mar  1 17:29:29 2016  
+Tue Mar  1 17:29:29 2016  
+Tue Mar  1 17:29:29 2016  Msieve v. 1.50 (SVN Répertoire non versionné)
+Tue Mar  1 17:29:29 2016  random seeds: 1c65b357 2f6348a5
+Tue Mar  1 17:29:29 2016  MPI process 0 of 1
+Tue Mar  1 17:29:29 2016  factoring 7548459677777 (13 digits)
+Tue Mar  1 17:29:29 2016  p4 factor: 1097
+Tue Mar  1 17:29:29 2016  p10 factor: 6881002441
+Tue Mar  1 17:29:29 2016  elapsed time 00:00:00
